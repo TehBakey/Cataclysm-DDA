@@ -17,3 +17,18 @@
     "use_action": "INHALER"
   }
 ]
+[
+  {
+    "id": "cigmachine_big",
+    "type": "TOOL",
+    "category": "drugs",
+    "name": "large cigarette machine rolling machine",
+    "description": "Large metal mechincal cigarette  machine with a hand crank, uses loose tobacco and filtered tubes to make cigarettes",
+    "weight": 1542,
+    "volume": 3,
+    "price": 5000,
+    "material": "budget_steel",
+    "symbol": "-",
+    "color": "purple",
+  }
+]
