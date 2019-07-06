@@ -1113,4 +1113,21 @@
     "color": "yellow",
     "ammo_type": "components"
   }
+      {
+    "type": "AMMO",
+    "category": "other",
+    "id": "filtered_tubes",
+    "symbol": ",",
+    "color": "white",
+    "name": "filtered cigerette tuber",
+    "description": "An empty paper tube with a filter at one end, used to make cigerettes with a cigerette machine",
+    "price": 150,
+    "material": "paper",
+    "weight": 1,
+    "volume": "100ml",
+    "ammo_type": "components",
+    "stack_size": 200,
+    "count": 30,
+    "flags": [ "UNRECOVERABLE" ]
+  }
 ]
